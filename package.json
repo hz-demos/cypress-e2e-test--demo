@@ -1,0 +1,17 @@
+{
+  "name": "cypress-e2e-test--demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.2",
+    "dotenv": "^16.0.0"
+  }
+}
